@@ -18,7 +18,7 @@ NLP is used to analyze (3150,5) reviews to predict users' sentiments; 0=negative
   
   Seaborn
 # Data
-  Source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
+  Source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/
   
   Inputs: Reviews (text/unstructured data)
   
